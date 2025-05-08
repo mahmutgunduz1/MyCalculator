@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Uygulama Teması -->
+    <style name="Base.Theme.MyCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Buraya özel renkler vs. ekleyebilirsin -->
+     <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="Theme.MyCalculator" parent="Base.Theme.MyCalculator" />
+
+
+</resources>
